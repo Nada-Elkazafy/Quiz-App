@@ -22,7 +22,7 @@ This project demonstrates DOM manipulation, event handling, timer logic, and use
 
 ## 🚀 Live Demo
 
-🔗 [Try the quiz here](https://Nada-Elkazafy.github.io/Quiz-App)
+🔗 [Try the quiz here](https://nada-elkazafy.github.io/Quiz-App)
 
 ## 🛠️ Tech Stack
 
