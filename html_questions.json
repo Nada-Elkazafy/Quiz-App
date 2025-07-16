@@ -1,0 +1,92 @@
+[
+    {
+        "title":"Why We Use <br> Element",
+        "answer_1":"To make Text Bold",
+        "answer_2":"To make Text Italic",
+        "answer_3":"To add Breakline",
+        "answer_4":"To add Horizontal line",
+        "right_answer":"To add Breakline"
+    },
+    {
+        "title":"is <img> Element has Attribute href",
+        "answer_1":"yas",
+        "answer_2":"no",
+        "answer_3":"All element has this attribute",
+        "answer_4":"1&3",
+        "right_answer":"no"
+
+    },
+    {
+        "title":"how can we make element text bold",
+        "answer_1":"putting it inside <b> tag",
+        "answer_2":"putting it inside <strong> tag ",
+        "answer_3":"customizing it with font_weight property in css",
+        "answer_4":"all right",
+        "right_answer":"all right"
+    },
+    {
+        "title": "What is HTML?",
+        "answer_1":" HTML describes the structure of a webpage",
+        "answer_3": "HTML is the standard markup language mainly used to create web pages",
+        "answer_2":" HTML consists of a set of elements that helps the browser how to view the content",
+        "answer_4": "All of the mentioned",
+        "right_answer":"All of the mentioned"
+    },
+    {
+        "title": "Who is the father of HTML?",
+        "answer_1": "Rasmus Lerdorf",
+        "answer_2": "Tim Berners-Lee",
+        "answer_3":"Brendan Eich",
+        "answer_4": "Sergey Brin",
+        "right_answer":"Tim Berners-Lee"
+
+    },
+    {
+        "title": "HTML stands for",
+        "answer_1":"HyperText Markup Language",
+        "answer_2":"HyperText Machine Language",
+        "answer_3": "HyperText Marking Language",
+        "answer_4": "HighText Marking Language",
+        "right_answer":"HyperText Markup Language"
+    },
+    {
+        "title": "What is the correct syntax of doctype in HTML5?",
+        "answer_1": "</doctype html>",
+        "answer_2":"<doctype html>",
+        "answer_3": "<doctype html!>",
+        "answer_4": "<!doctype html>",
+        "right_answer":"<!doctype html>"
+    },
+    {
+        "title": "of the following is used to read an HTML page and render it?",
+        "answer_1": "Web server",
+        "answer_2": "Web network",
+        "answer_3": "browser",
+        "answer_4": "Web matrix",
+        "right_answer":"browser"
+    },
+    {
+        "title": "of the following is not a difference between HTML and XHTML?",
+        "answer_1": "Charset in both html and xhtml is “text/html”",
+        "answer_2": "Tags and attributes are case-insensitive in HTML but not in XHTML",
+        "answer_3": "Special characters must be escaped using character entities in XHTML unlike HTML",
+        "answer_4": "Charset in html is “text/html” where as in xhtml it is “application/xml+xhtml”",
+        "right_answer":"Charset in both html and xhtml is “text/html”"
+    },
+    {
+        "title": "Which of the following tag is used for inserting the largest heading in HTML?",
+        "answer_1": "head",
+        "answer_2": "<h1>",
+        "answer_3": "<h6>",
+        "answer_4": "heading",
+        "right_answer":"<h1>"
+    },
+    {
+       "title": "What is DOM in HTML?",
+       "answer_1": "Language dependent application programming",
+       "answer_2": "Hierarchy of objects in ASP.NET",
+       "answer_3": "Application programming interface",
+       "answer_4":"Convention for representing and interacting with objects in html documents",
+       "right_answer":"Convention for representing and interacting with objects in html documents"
+    }
+]
