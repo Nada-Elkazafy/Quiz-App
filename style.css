@@ -9,14 +9,14 @@ body {
   padding: 0;
 }
 .start-container {
-  width: 800px;
+  max-width: 800px;
   margin: 40px auto;
   background-color: #fafafb;
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: center;
-  height: 500px;
+  max-height: 500px;
 }
 
 .start-box h1 {
@@ -55,7 +55,7 @@ body {
 
 .quiz-app {
   margin: 40px auto;
-  width: 800px;
+  max-width: 800px;
   background-color: #f8f8f8;
   padding: 20px;
   border-radius: 12px;
@@ -239,5 +239,64 @@ body {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+
+/* Mobile Landscape / Small Tablets */
+@media (max-width: 768px) {
+  .quiz-container {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .question {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+
+  .answers button {
+    font-size: 0.9rem;
+    padding: 10px;
+  }
+
+  .next-btn,
+  .start-btn {
+    font-size: 0.9rem;
+    padding: 10px 18px;
+  }
+}
+
+/* Mobile Phones */
+@media (max-width: 576px) {
+  .quiz-container {
+    width: 95%;
+    padding: 15px;
+    border-radius: 12px;
+  }
+
+  .question {
+    font-size: 1rem;
+  }
+
+  .answers {
+    gap: 10px;
+  }
+
+  .answers button {
+    font-size: 0.85rem;
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  .timer {
+    font-size: 0.9rem;
+  }
+
+  .next-btn,
+  .start-btn {
+    width: 100%;
+    font-size: 0.85rem;
+    padding: 12px;
   }
 }
